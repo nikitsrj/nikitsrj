@@ -1,7 +1,7 @@
 ### <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nikit Swaraj!</p>
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5jbnJ1amVybmswMGVzY2luZ2R1N3Q0ZnhqdzkzdjNjamZxNXQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/></p>
 <p align="center">
-<a href="www.linkedin.com/in/nikit-swaraj-16122ba"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/nikit-swaraj-16122ba0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <!--
