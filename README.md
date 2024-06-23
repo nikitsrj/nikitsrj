@@ -2,22 +2,13 @@
   <img src="https://github.com/nikitsrj/nikitsrj/blob/main/profile.gif" alt="Hi, I'm Nikit Swaraj">
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5jbnJ1amVybmswMGVzY2luZ2R1N3Q0ZnhqdzkzdjNjamZxNXQweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/></p>
+<p align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nikitsrj/nikitsrj/output/snake.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/nikit-swaraj-16122ba0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
-<!--
-**nikitsrj/nikitsrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
