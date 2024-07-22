@@ -63,7 +63,7 @@
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 -->
 <p align="center">
-<a href="https://www.linkedin.com/in/nikit-swaraj-16122ba0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/nikit-swaraj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikitsrj/nikitsrj/output/snake.svg" alt="Snake animation" />
