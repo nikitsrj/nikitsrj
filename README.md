@@ -1,4 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=nikitsrj)
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nikitsrj)
 
